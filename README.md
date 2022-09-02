@@ -3,5 +3,5 @@ OpenALPR for Android (Xamarin.Android)
 
 ___________________________________________________________________________________________
 
-# Также необходимо взять ( из repo: https://github.com/gutsdk/alpr-xamarin ) OpenALPR Xamarin.Android Binding и OpenALPR Xamarin.Android Library
-# Помимо этого необходимо из того же репозитория взять из проекта ALPR.Camera две папки: Assets и lib
+# for this you need to take OpenALPR Xamarin.Android Binding и OpenALPR Xamarin.Android Library
+# ALPR.Camera two folders: Assets и lib from this repo: https://github.com/gutsdk/alpr-xamarin
